@@ -1,0 +1,2 @@
+class PikminsController < ApplicationController
+end
